@@ -7,6 +7,8 @@ Redirecionador de links para acessar meu portfólio, e entrar em contato comigo 
 <h2> Confira: </h2>
 <br> 
 
+<a href="https://andreystahl.netlify.app"> Acesse aqui! </a>
+
 <img alt="imagemDoProjeto" src="./assets/Read.png">
 
 <br> 
